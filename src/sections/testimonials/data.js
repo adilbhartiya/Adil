@@ -10,52 +10,52 @@ import Avatar7 from '../../assets/avatar7.jpg'
 const data = [
         {
         id: 1,
-        quote: "It's truly amazing how you did exactly what I want with the little information I gave. You'll be my go-to developer from today. Highly recommend!",
+        quote: "Damn. Would have taken me ages to figure that out. Looks so simple once you see it but to actually think of it.",
         avatar: Avatar1,
-        name: 'Nana Ama McBrown',
-        profession: 'Actress'
+        name: 'Akhilesh',
+        // profession: 'Actress'
         },
         {
         id: 2,
-        quote: "Good job, Hajia! Right on time! I really like how the project turned out, and my customers like it as well. It was fun collaborating with you.",
+        quote: "Bro, you are so good at logic. I think you will get the highest package.",
         avatar: Avatar2,
-        name: 'Ernest Achiever',
-        profession: 'Web Developer'
+        name: 'Kingsley Summit',
+        // profession: 'Web Developer'
         },
         {
         id: 3,
-        quote: "Impressive work, buddy. Highly recommend!",
+        quote: "I see you have very good logic. What is your background bro?",
         avatar: Avatar3,
-        name: 'Daniel Vinyo',
-        profession: 'Graphic Designer'
+        name: 'Rushikesh Waghmare',
+        // profession: 'Graphic Designer'
         },
         {
         id: 4,
-        quote: "Wow. You finished earlier than you said. Everything's modern and beautifully done to the T. Great profession!",
+        quote: "Thanks bro, this was some major help.",
         avatar: Avatar4,
-        name: 'Diana Ayi',
-        profession: 'Singer'
+        name: 'Shaikh Mudassir',
+        // profession: 'Singer'
         },
         {
         id: 5,
-        quote: "I like how the app turned out. You are incredible, Hajia.",
+        quote: "Adil, you are a genius.",
         avatar: Avatar5,
-        name: 'Vivian Mensah',
-        profession: 'Street Photographer'
+        name: 'Kanuupriya Goyall',
+        // profession: 'Street Photographer'
         },
         {
         id: 6,
-        quote: "Best developer in the world!",
+        quote: "You aced it.",
         avatar: Avatar6,
-        name: 'Hajia Bintu',
-        profession: 'Brand Influencer'
+        name: 'Shivam Agrawal',
+        // profession: 'Anil kota'
         },
         {
         id: 7,
-        quote: "Keep doing great stuff, dear! Nicely executed!",
+        quote: "You nailed it. How many hours have you been practicing SQL? I'm seriously curious.",
         avatar: Avatar7,
-        name: 'Nicki Nyarko',
-        profession: 'Makeup Artist'
+        name: 'Anil kota',
+        // profession: 'Makeup Artist'
         }
     ]
 

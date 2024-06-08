@@ -85,3 +85,17 @@
 }
 
 }
+
+
+/* css modified by me */
+
+/* Add this to your about.css file */
+.about__card-link.special-link {
+    color: #706B76; /* Change this color to whatever you need */
+    text-decoration: none;
+  }
+  
+  .about__card-link.special-link:hover {
+    color: #706B76; /* Change this color to whatever you need for hover */
+  }
+  

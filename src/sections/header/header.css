@@ -15,17 +15,19 @@ header {
 }
 
 .header__profile {
+
     width: 18rem;
-    height: 20rem;
+    height: 22rem;
     border-radius: 9rem 9rem 2rem 2rem;
     overflow: hidden;
-    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .header__container p {
     width: 35rem;
     text-align: center;
-    margin: 0.6rem 0 2rem;
+    margin: 0.6rem 0 1rem;
 }
 
 .header__cta {

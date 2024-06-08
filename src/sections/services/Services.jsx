@@ -6,7 +6,7 @@ const Services = () => {
   return (
     <section id="services">
       <h2>My Services</h2>
-      <p>I give you the best in all the services below</p>
+      <p>As a budding enthusiast in Data Science and Machine Learning, I bring my foundational knowledge in the following areas:</p>
       <div className="container services__container" data-aos="fade-up">
         {
           data.map(item => (

@@ -16,9 +16,10 @@ const Header = () => {
         <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3  data-aos="fade-up">Adil Bhartiya</h3>
+        <h3  data-aos="fade-up">Hi, I'm Adil</h3>
         <p  data-aos="fade-up">
-        You are a click away from building your dream website or web app. Send me the details of your project for a modern, mobile responsive, highly performant website today!
+        {/* A Data Science and Machine Learning enthusiast with expertise in Python development, SQL, and Power BI. Passionate about driving innovative solutions through data, with a solid foundation in Machine Learning. Always ready for new challenges in the data science realm. */}
+        A Data Science and Machine Learning enthusiast with expertise in Python, SQL, and Power BI. Passionate about driving innovative solutions through data with a solid foundation in Machine Learning.
         </p>
         <div className="header__cta"  data-aos="fade-up">
           <a href="#contact" className='btn primary'>Let's Talk</a>

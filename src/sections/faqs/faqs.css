@@ -1,3 +1,4 @@
+
 .faqs__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -40,12 +41,14 @@
 }
 
 
+
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 1024px) {
     .faqs__container {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 /* MEDIA QUERIES (phones) */
