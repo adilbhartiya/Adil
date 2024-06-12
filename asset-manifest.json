@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Adil/static/css/main.22cf5c10.css",
-    "main.js": "/Adil/static/js/main.e982ed64.js",
-    "static/media/header.jpg": "/Adil/static/media/header.408628755dc23669045e.jpg",
+    "main.js": "/Adil/static/js/main.c8172d48.js",
     "static/media/project7.jpg": "/Adil/static/media/project7.c6056b303f765016ee6e.jpg",
+    "static/media/header.jpg": "/Adil/static/media/header.ae37438270793f31c9a9.jpg",
     "static/media/project3.jpg": "/Adil/static/media/project3.64aa78f762bfa7a72d36.jpg",
     "static/media/project4.jpg": "/Adil/static/media/project4.0e7b87fbd634eebbc028.jpg",
     "static/media/project2.jpg": "/Adil/static/media/project2.db24cc6bdc9629725a5b.jpg",
@@ -17,10 +17,10 @@
     "static/media/cv.pdf": "/Adil/static/media/cv.692f04ea5b61c623a5a3.pdf",
     "index.html": "/Adil/index.html",
     "main.22cf5c10.css.map": "/Adil/static/css/main.22cf5c10.css.map",
-    "main.e982ed64.js.map": "/Adil/static/js/main.e982ed64.js.map"
+    "main.c8172d48.js.map": "/Adil/static/js/main.c8172d48.js.map"
   },
   "entrypoints": [
     "static/css/main.22cf5c10.css",
-    "static/js/main.e982ed64.js"
+    "static/js/main.c8172d48.js"
   ]
 }
