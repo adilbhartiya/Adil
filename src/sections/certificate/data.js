@@ -10,12 +10,27 @@ const data = [
         id: 1,
         category: 'Recent',
         image: Image1,
+        title: "Machine Learning with Python-From Linear Models to Deep Learning (Recent)",
+        // desc: "Massachusetts Institute of Technology, offered through Edx Completed: August 2024",
+        desc: (
+            <>
+                Massachusetts Institute of Technology, <br />
+                offered through Edx <br />
+                Completed: August 2024
+            </>
+        ),
+        github: 'https://courses.edx.org/certificates/4b5cbafd25f64713b6603d8b324a87dc'
+    },
+    {
+        id: 2,
+        category: 'Recent',
+        image: Image1,
         title: "Post Graduate Program in Data Science and Machine Learning (Recent)",
         desc: "Intellipaat, 2023 – 2024",
         github: 'https://lms.intellipaat.com/certificate-link/?Yz02NzM5MjMmdT0yMjM4ODUmZXh0PTE='
     },
     {
-        id: 2,
+        id: 3,
         category: 'Recent',
         image: Image2,
         title: "Power BI Training (Recent)",
@@ -23,7 +38,7 @@ const data = [
         github: 'https://lms.intellipaat.com/certificate-link/?Yz01MjQ5OSZ1PTIyMzg4NSZleHQ9MQ=='
     },
     {
-        id: 3,
+        id: 4,
         category: 'Recent',
         image: Image3,
         title: "MS SQL Developer Course (Recent)",
@@ -31,7 +46,7 @@ const data = [
         github: 'https://lms.intellipaat.com/certificate-link/?Yz0yODUzJnU9MjIzODg1JmV4dD0x'
     },
     {
-        id: 4,
+        id: 5,
         category: 'Recent',
         image: Image4,
         title: "Python Training (Recent)",
@@ -39,7 +54,7 @@ const data = [
         github: 'https://lms.intellipaat.com/certificate-link/?Yz01OTEwJnU9MjIzODg1JmV4dD0x'
     },
     {
-        id: 5,
+        id: 6,
         category: 'Foundational ',
         image: Image5,
         title: "Programming Fundamentals (Foundational)",
@@ -47,7 +62,7 @@ const data = [
         github: 'https://www.coursera.org/account/accomplishments/verify/QUFLMXB46B5K'
     },
     {
-        id: 6,
+        id: 7,
         category: 'Foundational ',
         image: Image6,
         title: "Mathematics for Computer Science (Foundational)",

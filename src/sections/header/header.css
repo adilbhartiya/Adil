@@ -17,12 +17,27 @@ header {
 .header__profile {
 
     width: 18rem;
-    height: 22rem;
-    border-radius: 9rem 9rem 2rem 2rem;
+    height: 20rem;
+    /* border-radius: 9rem 9rem 2rem 2rem; */
     overflow: hidden;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;  
+    /* padding-left: 1rem; */
 }
+
+/* Blob SVG fill color */
+/* .home__blob path {
+    fill: #ff8c00; 
+} */
+
+
+.home__blob path {
+    fill: #F78880; /* Set the color here */
+}
+
+
+
+
 
 .header__container p {
     width: 35rem;
