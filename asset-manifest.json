@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Adil/static/css/main.22cf5c10.css",
-    "main.js": "/Adil/static/js/main.c8172d48.js",
+    "main.css": "/Adil/static/css/main.55e05c7f.css",
+    "main.js": "/Adil/static/js/main.27e17a5e.js",
     "static/media/project7.jpg": "/Adil/static/media/project7.c6056b303f765016ee6e.jpg",
     "static/media/header.jpg": "/Adil/static/media/header.ae37438270793f31c9a9.jpg",
     "static/media/project3.jpg": "/Adil/static/media/project3.64aa78f762bfa7a72d36.jpg",
@@ -14,13 +14,13 @@
     "static/media/about.jpg": "/Adil/static/media/about.8a7e667f264479e60d3b.jpg",
     "static/media/avatar1.jpg": "/Adil/static/media/avatar1.b443366a33b0353e55dc.jpg",
     "static/media/logo.jpg": "/Adil/static/media/logo.c8189ca5ed105948a3ed.jpg",
-    "static/media/cv.pdf": "/Adil/static/media/cv.692f04ea5b61c623a5a3.pdf",
+    "static/media/cv.pdf": "/Adil/static/media/cv.64e9ce4fec28b01b87cc.pdf",
     "index.html": "/Adil/index.html",
-    "main.22cf5c10.css.map": "/Adil/static/css/main.22cf5c10.css.map",
-    "main.c8172d48.js.map": "/Adil/static/js/main.c8172d48.js.map"
+    "main.55e05c7f.css.map": "/Adil/static/css/main.55e05c7f.css.map",
+    "main.27e17a5e.js.map": "/Adil/static/js/main.27e17a5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.22cf5c10.css",
-    "static/js/main.c8172d48.js"
+    "static/css/main.55e05c7f.css",
+    "static/js/main.27e17a5e.js"
   ]
 }
