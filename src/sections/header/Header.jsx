@@ -38,7 +38,7 @@ const Header = () => {
         {/* Intro and CTA */}
         <h3 data-aos="fade-up">Hi, I'm Adil</h3>
         <p data-aos="fade-up">
-          A Data Science and Machine Learning enthusiast with expertise in Python, SQL, and Power BI. Passionate about driving innovative solutions through data with a solid foundation in Machine Learning.
+        A Data Science and Machine Learning enthusiast with expertise in Python, SQL, and Power BI. Passionate about driving innovative solutions through data with a solid foundation in machine learning.
         </p>
         <div className="header__cta" data-aos="fade-up">
           <a href="#contact" className="btn primary">Let's Talk</a>

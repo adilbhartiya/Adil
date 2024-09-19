@@ -104,7 +104,7 @@ const About = () => {
             })}
           </div>
           <p>
-            Welcome to my professional space! I am a Computer Science graduate with a strong passion for data science and machine learning. My technical expertise includes Python, SQL, and Power BI, complemented by certifications in Mathematics for Computer Science and Programming Fundamentals. With a dedication to continuous learning and a drive to excel in the field, I am eager to leverage my skills and contribute to impactful projects. Let's explore the possibilities together.
+          Welcome to my professional space! I am a Computer Science graduate with a strong passion for data science and machine learning. My technical expertise includes Python, SQL, and Power BI, complemented by certifications in Mathematics for Computer Science and Programming Fundamentals. Recently, I completed the "Machine Learning with Python: From Linear Models to Deep Learning" course from the Massachusetts Institute of Technology through EdX, further enhancing my skills in advanced machine learning techniques. With a dedication to continuous learning and a drive to excel in the field, I am eager to leverage my skills and contribute to impactful projects. Let's explore the possibilities together.
           </p>
           <a href={CV} download className='btn primary'>Download CV <HiDownload /></a>
         </div>

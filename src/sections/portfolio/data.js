@@ -32,7 +32,7 @@ const data = [
         category: 'DS & ML',
         image: Image3,
         title: "Counter-Strike-Round-Winner-Prediction (DS & ML)",
-        desc: "This project focuses on predicting customer churn for a telecom company using machine learning techniques. By identifying at-risk customers and implementing retention strategies, it enables proactive measures to retain valuable customers and sustain business growth through accurate churn forecasting.",
+        desc: "In this project, our objective was to employ machine learning algorithms to classify round winners in Counter-Strike: Global Offensive (CS). The Random Forest Classifier emerged as the top-performing model, achieving an accuracy of 84.1%.",
         // demo: 'http://egatortutorials.com',
         github: 'https://github.com/adilbhartiya/Counter-Strike-Round-Winner-Prediction.git'
     },
