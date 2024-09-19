@@ -44,33 +44,32 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
 /* THEME change using react */
 main.color-1 {
-    --primary-hue: 270; 
+    --color-primary: #5a46c0; 
+    --color-white: #ffffff;
 }
 main.color-2 {
-    --primary-hue: 110;
+    --color-primary: #663399; 
+    --color-white: #ffffff;
 }
 main.color-3 {
-    --primary-hue: 240;
+    --color-primary: #df5644; 
+    --color-white: #ffffff;
 }
 main.color-4 {
-    --primary-hue: 325;
+    --color-primary: #008080; 
+    --color-white: #ffffff;
 }
 main.color-5 {
-    --primary-hue: 0;
+    --color-primary: #0c69c6; 
+    --color-white: #ffffff;
 }
 main.color-6 {
-    --primary-hue: 55;
+    --color-primary: #288a51; 
+    --color-white: #ffffff;
 }
+
 
 main.bg-2 {
     --black-lightness: 96%;
@@ -87,13 +86,6 @@ main {
     color: var(--color-dark);
     --color-primary: hsl(var(--primary-hue), 89%, 41%);
 }
-
-
-
-
-
-
-
 
 /* GENERAL CONTAINER CLASS */
 .container {
@@ -239,9 +231,6 @@ img {
         font-size: 2rem;
     }
 }
-
-
-
 
 
 /* MEDIA QUERIES (phones) */

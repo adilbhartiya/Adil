@@ -1,6 +1,6 @@
 nav {
     width: 100vw;
-    height: 5rem;
+    height: 4rem;
     display: grid;
     place-items: center;
     background: var(--color-primary);
@@ -23,6 +23,7 @@ nav {
     width: 2.5rem;
     border-radius: 50%;
     overflow: hidden;
+    
 }
 
 .nav__menu {
